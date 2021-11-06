@@ -37,4 +37,5 @@ Use `-O output_filename.csv` to save the scraped data and `--set delimiter=';'` 
  Code [MIT](httpschoosealicense.comlicensesmit)
  
  Dataset [CC BY-NC-SA 4.0](httpscreativecommons.orglicensesby-nc-sa4.0)
+ 
  [<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png">](https://licensebuttons.net)
