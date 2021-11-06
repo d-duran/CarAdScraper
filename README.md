@@ -31,13 +31,14 @@ Use `-O output_filename.csv` to save the scraped data and `--set delimiter=';'` 
 ## Authors
 **Team members**
 
- [David Durán](https://www.linkedin.com/in/david-duran-olivar/)
+ - [David Durán](https://www.linkedin.com/in/david-duran-olivar/)
  
- [Pablo Martínez](https://www.linkedin.com/in/pablompavon/)
+ - [Pablo Martínez](https://www.linkedin.com/in/pablompavon/)
 
-## License
- Code [MIT](httpschoosealicense.comlicensesmit)
+## Licenses
+
+ Code license: [MIT](httpschoosealicense.comlicensesmit)
  
- Dataset [CC BY-NC-SA 4.0](httpscreativecommons.orglicensesby-nc-sa4.0)
+ Dataset license: [CC BY-NC-SA 4.0](httpscreativecommons.orglicensesby-nc-sa4.0)
  
  [<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png">](https://licensebuttons.net)
