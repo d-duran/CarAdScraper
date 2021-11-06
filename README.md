@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Usage
 Go to the scrapy project directory
 ```python
-cd milpymilpy
+cd milpy
 ```
 Run this command to start the spider.
 ```
