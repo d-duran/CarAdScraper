@@ -31,7 +31,7 @@ Use `-O output_filename.csv` to save the scraped data and `--set delimiter=';'` 
 ## Authors
 **Team members**
 
- David Durán
+ [David Durán](https://www.linkedin.com/in/david-duran-olivar/)
  
  [Pablo Martínez](https://www.linkedin.com/in/pablompavon/)
 
