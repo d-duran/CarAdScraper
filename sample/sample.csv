@@ -1,0 +1,20 @@
+color,door_num,fuel_type,hp,location,mileage,price,ref_num,seller,title,transmission,year
+Blanco,5,gasolina,60,Málaga,170000,1450,426875509,Profesional,Renault - Clio,manual,2000
+Negro,5,híbrido,108,Madrid,14950,23390,429436719,Profesional,RENAULT - Zoe Intens 80 kW R110 Bateria 50kWh,automático,2020
+Blanco,5,diesel,165,Cuenca,260000,8990,426571125,Profesional,OPEL - Zafira Tourer 2.0 CDTi 165 CV Selective,manual,2012
+Marron,5,diesel,313,Alicante,235000,21900,418805767,Particular,Bmw - Serie 7,automático,2013
+Rojo,5,gasolina,68,Jaén,74000,1800,428978271,Particular,Peugeot - 107,manual,2007
+Beige,5,gasolina,60,Valencia,148200,5200,429155464,Profesional,SKODA - Fabia 1.2 60cv Spirit,manual,2012
+Blanco,5,gasolina,90,Valencia,10958,13900,429155465,Profesional,RENAULT - Clio Zen TCe 67 kW 91CV,manual,2020
+Azul,5,gasolina,75,Cádiz,41338,11990,426955686,Profesional,SKODA - Fabia Combi 1.0 MPI 55KW 75cv Like,manual,2019
+Blanco,5,gasolina,82,Almería,115000,8500,423852498,Profesional,PEUGEOT - 2008 Access 1.2 VTi 82,manual,2014
+Azul,5,diesel,120,Salamanca,127000,9500,384357096,Profesional,OPEL - Insignia 2.0CDTI ecoFLEX StarStop 120 Expression,manual,2014
+Blanco,5,diesel,130,Badajoz,151348,13499,416515268,Profesional,NISSAN - QASHQAI 1.6dCi SS VISIA 4x4,manual,2016
+Azul (Misano Blau),5,diesel,116,Madrid,21500,29900,429446085,Profesional,BMW - Serie 1 116d,manual,2020
+Gris / Plata (*RIV*),5,gasolina,120,Murcia,102666,13200,429454609,Profesional,RENAULT - Captur Zen Energy TCe 120 EDC,automático,2016
+Negro,5,diesel,120,Madrid,236000,1499,426420195,Profesional,Renault - Scénic,manual,2005
+Negro,5,gasolina,265,Barcelona,202000,12500,429382406,Profesional,Audi - S3,manual,2010
+Gris,5,diesel,231, Madrid,194000,8000,428695384,Particular,BMW Serie 3,automático,2006
+Blanco (T9T9 Blanco ,5,diesel,150,Madrid,100082,21100,413132116,Profesional,AUDI - A4 Avant 2.0 TDI 150CV S tronic sport edit,automático,2016
+BlueMetallic,5,diesel,260, Madrid,180000,16500,306916699,Profesional,BMW - 330/325 E91 Pack M,manual,2012
+Gris / Plata,5,híbrido,416,Madrid,157000,42890,399596154,Profesional,PORSCHE - Panamera 3.0 S Hybrid,automático,2014
