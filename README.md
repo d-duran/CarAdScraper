@@ -33,7 +33,7 @@ Use `-O output_filename.csv` to save the scraped data and `--set delimiter=';'` 
 
  David Durán
  
- Pablo Martínez
+ [Pablo Martínez](https://www.linkedin.com/in/pablompavon/)
 
 ## License
  Code [MIT](httpschoosealicense.comlicensesmit)
