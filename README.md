@@ -27,7 +27,7 @@ scrapy crawl ads -O output_filename.csv --set delimiter=';'
 Use `-O output_filename.csv` to save the scraped data and `--set delimiter=';'` to choose the variable delimiter.
 
 ## Authors
-Team members
+*Team members*
 
  David Durán
  
